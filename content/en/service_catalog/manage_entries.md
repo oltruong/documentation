@@ -29,7 +29,7 @@ To specify on-call, source code, or documentation for your services, you can add
 {{< callout url="https://forms.gle/L5zXVkKr5bAzbdMD9" d_target="#signupModal" btn_hidden="false" header="Opt in to the private beta for metadata schema v3.0!" >}}
 {{< /callout >}}
 
-### Service Definition Schema (v2.2) (Recommended)
+### Service Definition Schema (v2.2) (Recommende
 
 The Service Definition Schema is a structure that contains basic information about a service. See the [full schema on GitHub][19].
 
